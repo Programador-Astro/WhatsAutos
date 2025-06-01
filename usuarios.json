@@ -1,4 +1,12 @@
 {
-  "email":"brunobfg@gmail.com",
-  "pwd":"1234"
+  "usuarios": [
+    {
+      "email": "brunobfg@gmail.com",
+      "senha": "1234"
+    },
+    {
+      "email": "outro@email.com",
+      "senha": "outra_senha"
+    }
+  ]
 }
